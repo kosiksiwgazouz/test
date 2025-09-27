@@ -1,0 +1,96 @@
+header{
+    text-transform: capitalize;
+    font-size: 40px;
+    padding-top: 10px;
+    color: goldenrod;
+    font-family: cursive;
+    text-shadow: 5px 5px 5px silver;
+    height: 15vh;
+    width: 100%;
+    background-color: black;
+    border-radius: 20px;
+    text-align: center;
+    float: left;
+
+}
+footer{
+    color: bisque;
+    font-family: cursive;
+    width: 100%;
+    height: 10vh;
+    background-color: black;
+    text-align: center;
+    float: left;
+
+
+}
+nav{
+    color: antiquewhite;
+    height: 100vh;
+    width: 15%;
+    float: left;
+    background-color: rgba(180, 240, 115, 0.5);
+    padding: 30px;
+
+}
+section{
+    color: antiquewhite;
+    height: 100vh;
+    width: 80%;
+    float: left;
+    text-align: justify;
+    background-color: rgba(71, 92, 48, 0.05);
+
+
+}
+iframe{
+    height: 96vh;
+    width: 98%;
+    float: left;
+    margin: 15px;
+
+}
+h1{
+    text-transform: capitalize;
+    color: goldenrod;
+    font-family: cursive;
+    text-shadow: 10px 10px 10px 10px silver;
+    background-color: black;
+    border-radius: 20px 70px;
+    margin: 20px;
+    text-align: center;
+
+}
+h1:hover{
+    color: rgb(63,99,99);
+    background-color: rgba(124, 221,229, 0.3);
+    border-radius: 70px 20px;
+    letter-spacing: 20px;
+}
+body{
+    background-color: rgb(91, 80, 102);
+}
+legend{
+    color: #999999;
+    font-size: 20px;
+    box-shadow: 0px 10px 10px 0px rgba(0,0,0, 0.8);
+    border-radius: 0px 10px;
+    padding: 10px;
+    font-weight: bold;
+
+}
+fieldset{
+    width: 60%;
+    margin: 20px;
+    padding: 30px;
+    border-radius: 20px;
+    background-color: rgba(204, 254, 152, 0.03);
+    box-shadow: 8px 6px 8px 6px rgba(0, 0, 0, 0.8);
+    position:  relative ;
+    left: 15px;
+
+}
+.b{
+    
+
+}

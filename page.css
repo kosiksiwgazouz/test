@@ -1,0 +1,69 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+
+body {
+
+    background: url('https://wallpapers.com/images/hd/national-flag-of-palestine-2fr136dmhmybdnca.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+}
+
+header {
+    
+    width: 100%;
+    height: 20%;
+    text-align: center;
+    
+}
+
+header h1 {
+    color: red; /* Change the color to red */
+    font-size: 36px; /* Adjust the font size as needed */
+    text-shadow: 2px 2px 4px #FF0000; /* Add a text shadow for an attractive effect */
+}
+
+header p {
+    color: Orange;
+}
+nav{
+    float: left;
+    height: 70%;
+    width: 20%;
+}
+section{
+    float: left;
+    height: 70%;
+    width: 60%;
+}
+aside{
+    float: left;
+    height: 70%;
+    width: 20%;
+}
+footer{
+clear: both; 
+   height: 10%;
+    width: 100%;
+    text-align: center;
+}
+li{
+    background-color: #000000;
+    border-radius: 5%;
+    height: 50px;
+    width: 300px;
+    text-align: center;
+    padding-top: 10px;
+    
+}
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
+
